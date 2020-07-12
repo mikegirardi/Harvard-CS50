@@ -1,5 +1,5 @@
 //
-//
+// Problem Set 1 from CS50 Week 1: Hello.
 //
 
 #include <cs50.h>
