@@ -1,6 +1,6 @@
-/
-/
-/
+//
+//  Problem Set 1 from CS50 Week 1: Cash.
+//
 
 #include <cs50.h>
 #include <stdio.h>
